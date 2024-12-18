@@ -1,6 +1,10 @@
 # Fine-Tuning Llama 3.2 Vision and MoonDream2
 ---
 
+> [!NOTE]
+>
+> **The notebooks are not ready to drag and run, if you are using the Llama 3.2 version, you will have to modify the model line depending on the version you have downloaded locally, this means, the 1B, 7B or 90B parameter**.
+
 ## 📂 Included Files
 
 - **`FineTuning_Llama_CatsVsDogs.ipynb`**: Demonstrates fine-tuning using the Llama 3.2 Vision model.
