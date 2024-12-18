@@ -3,7 +3,7 @@
 
 > [!NOTE]
 >
-> **The notebooks are not ready to drag and run, if you are using the Llama 3.2 version, you will have to modify the model line depending on the version you have downloaded locally, this means, the 1B, 7B or 90B parameter**.
+> **The notebooks are not ready to drag and run, if you are using the Llama 3.2 version, you will have to modify the model line depending on the version you have downloaded locally, this means, the 1B, 7B or 90B parameter, same as with Moondream, which has a 0.5B version and a 2B version**.
 
 ## 📂 Included Files
 
